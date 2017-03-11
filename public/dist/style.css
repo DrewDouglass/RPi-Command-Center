@@ -1,0 +1,11 @@
+#content-wrap {
+	margin-top:50px;
+}
+#content-wrap .sidebar {
+	background-color:#eee;
+}
+@media (min-width: 768px) {
+	#content-wrap .sidebar {
+		padding-top:60px;
+	}
+}
